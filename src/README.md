@@ -8,15 +8,15 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-*При проверки карт платежной системы American Express (AMEX) в коде ответа возникает FAIL.
-* [Issue](https://github.com/EvgeniaRodi/Credit-Card-Number-Validator/issues/1)
+* При проверки карт платежной системы American Express (AMEX) в коде ответа возникает FAIL.
+ [Issue](https://github.com/EvgeniaRodi/Credit-Card-Number-Validator/issues/1)
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
 
-*Тест-сценарий:
+* Тест-сценарий:
 1. Создать новый проект в IntelliJ IDEA
 2. Взять код из [Задачи №1](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 3. Вставить карту для проверки с использованием ресурса [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html)
